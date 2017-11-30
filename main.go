@@ -1,1 +1,1 @@
-tr := tar.NewReader(gr)
+for {
