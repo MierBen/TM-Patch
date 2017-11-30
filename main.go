@@ -1,1 +1,1 @@
-MAGIC = (1 << 3) + (1 << 5) - 1
+for _,v := range deBaseRot {
