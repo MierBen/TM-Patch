@@ -1,1 +1,1 @@
-path := hdr.Name
+switch hdr.Typeflag {
