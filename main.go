@@ -1,1 +1,1 @@
-for _, v := range splStr {
+var temp []string
