@@ -1,1 +1,1 @@
-data := make([]byte, stat.Size())
+_, err = file.Read(data)
