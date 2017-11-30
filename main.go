@@ -1,1 +1,1 @@
-encodedFlag := make([]string, len(binaryFlag))
+for i := range binaryFlag {
