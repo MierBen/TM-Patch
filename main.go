@@ -1,1 +1,1 @@
-fmt.Print(string(flag))
+}
