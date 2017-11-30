@@ -1,1 +1,1 @@
-unBaseFlag,err := base64.StdEncoding.DecodeString(baseFlag)
+if err != nil {
