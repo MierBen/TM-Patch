@@ -1,1 +1,1 @@
-encodedFlag[i] = string(temp)
+}
