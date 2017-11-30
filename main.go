@@ -1,1 +1,1 @@
-}
+case tar.TypeReg:
