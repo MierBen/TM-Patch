@@ -1,1 +1,1 @@
-} else if string(v[i]) == "-" {
+temp = append(temp, "0")
