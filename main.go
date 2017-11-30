@@ -1,1 +1,1 @@
-for i := range binaryFlag {
+temp, _ := strconv.ParseInt(binaryFlag[i], 2, 64)
