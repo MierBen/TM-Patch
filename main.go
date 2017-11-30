@@ -1,1 +1,1 @@
-binaryFlag = binaryFlag[:len(binaryFlag) - 1]
+encodedFlag := make([]string, len(binaryFlag))
