@@ -1,1 +1,1 @@
-for _, v := range unBaseFlag {
+rotFlag = append(rotFlag, v + byte(MAGIC))
