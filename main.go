@@ -1,1 +1,1 @@
-var temp []string
+for i := range v {
