@@ -1,1 +1,1 @@
-}
+baseFlag := strings.Join(encodedFlag, "")
