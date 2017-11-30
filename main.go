@@ -1,1 +1,1 @@
-}
+var rotFlag []byte
