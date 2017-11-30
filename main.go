@@ -1,1 +1,1 @@
-for _,v := range deBaseRot {
+flag = append(flag, v ^ byte(MAGIC))
