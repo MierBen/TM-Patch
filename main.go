@@ -1,1 +1,1 @@
-if err != nil {
+ow, err = os.Create(path)
