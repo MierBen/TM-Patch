@@ -1,1 +1,1 @@
-switch hdr.Typeflag {
+case tar.TypeDir:
