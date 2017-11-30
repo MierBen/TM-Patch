@@ -1,1 +1,1 @@
-var MAGIC int
+func main() {
