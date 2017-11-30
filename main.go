@@ -1,1 +1,1 @@
-for i := range v {
+if string(v[i]) == "*" {
