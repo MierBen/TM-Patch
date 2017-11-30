@@ -1,1 +1,1 @@
-_, err = file.Read(data)
+if err != nil {
