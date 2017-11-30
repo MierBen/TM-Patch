@@ -1,1 +1,1 @@
-MAGIC = 13
+for _, v := range unBaseFlag {
