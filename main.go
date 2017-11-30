@@ -1,1 +1,1 @@
-gr.Close()
+f.Close()
