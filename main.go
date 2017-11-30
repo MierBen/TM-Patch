@@ -1,1 +1,1 @@
-stat, err := file.Stat()
+if err != nil {
