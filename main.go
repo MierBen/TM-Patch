@@ -1,1 +1,1 @@
-var rotFlag []byte
+MAGIC = 13
