@@ -1,1 +1,1 @@
-file.Close()
+splStr := strings.Split(string(data), " ")
