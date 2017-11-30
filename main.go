@@ -1,1 +1,1 @@
-}
+var flag []byte
