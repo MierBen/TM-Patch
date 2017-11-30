@@ -1,1 +1,1 @@
-var binaryFlag []string
+for _, v := range splStr {
