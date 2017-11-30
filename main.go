@@ -1,1 +1,1 @@
-hdr, err := tr.Next()
+if err == io.EOF {
