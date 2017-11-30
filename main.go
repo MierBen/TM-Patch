@@ -1,1 +1,1 @@
-for {
+hdr, err := tr.Next()
