@@ -1,1 +1,1 @@
-splStr := strings.Split(string(data), " ")
+var binaryFlag []string
